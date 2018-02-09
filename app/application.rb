@@ -1,4 +1,4 @@
-class application
+class Application
 
   @@items = []
 
@@ -21,4 +21,4 @@ class application
     end
     resp.finish
   end
-end 
+end
